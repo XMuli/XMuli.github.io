@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: touwoyimuli
 subtitle:
 description:
 keywords:
-author: John Doe
-language: en
+author: touwoyimuli
+language: zh-CN
 timezone:
 
 # URL
@@ -46,7 +46,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Home page setting
@@ -90,7 +90,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
