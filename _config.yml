@@ -95,4 +95,7 @@ theme: maupassant
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+    type: git
+    repo: https://github.com/touwoyimuli/touwoyimuli.github.io.git
+    branch: master
+    message: '站点更新:{{now("YYYY-MM-DD HH:mm:ss")}}'
