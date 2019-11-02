@@ -83,13 +83,18 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: site-name1
-    url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
-
+  - title: touwoyimuli' csdn
+    url: https://blog.csdn.net/qq_33154343
+  - title: touwoyimuli' github
+    url: https://github.com/touwoyimuli
+  - title: 懒得勤快
+    url: https://masuit.com/
+  - title: win软件管家
+    url: https://mp.weixin.qq.com/s/zeq1sTmaPsKt7Bsok0Ldrg
+  - title: mac软件管家
+    url: https://mp.weixin.qq.com/s/mVxJYiGrfselJx1b9XdvYw
+  - title: 俄国破解大神官网
+    url: https://lrepacks.ru
 timeline:
   - num: 1
     word: 2014/06/12-Start
