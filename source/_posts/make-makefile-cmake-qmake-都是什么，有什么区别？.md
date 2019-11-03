@@ -6,8 +6,7 @@ categories:
  - [学习 - c/c++]
  - [学习 - 底层原理、思想架构]
 tags: 
- - 原理、架构
- - c/c++
+ - 原理
 ---
 
 **简介：**   `make` `makefile` `cmake`   `qmake`都是什么，有什么区别？

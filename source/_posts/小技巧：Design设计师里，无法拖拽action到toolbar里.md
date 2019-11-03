@@ -6,8 +6,7 @@ categories:
  - [学习 - qt]
  - [专栏 - Qt推倒重学系列]
 tags: 
- - qt
- - 技巧
+ - qt技巧
 ---
 
 

@@ -8,8 +8,6 @@ categories:
  - [学习 - qt]
 tags: 
  - 项目实战开发
- - c/c++
- - qt
 ---
 
 

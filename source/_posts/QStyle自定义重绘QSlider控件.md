@@ -7,7 +7,6 @@ categories:
  - [专栏 - Qt推倒重学系列]
 tags: 
  - QStyle
- - qt
 ---
 
 **简介：**  根据`QStyle`的继承关系和重绘原理；通过实现一个继承`QCommonStyle`类的实现，实现自己的自定义控件`QSlider`控件。

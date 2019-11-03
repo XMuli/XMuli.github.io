@@ -3,10 +3,7 @@ title: macOS10.14.6下设置git命令自动补全
 date: 2019-10-30 18:56:15
 toc: true
 categories: 
- - [学习 - macOS]
  - [学习 - Linux]
-tags: 
- - MacOS
 ---
 
 

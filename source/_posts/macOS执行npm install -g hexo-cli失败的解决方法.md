@@ -5,8 +5,6 @@ toc: true
 categories: 
  - [学习 - Linux]
  - [学习 - hexo]
-tags: 
- - hexo
 ---
 
 **简  述：**  按照官网安装`hexo`的教程命令；执行命令`npm install -g hexo-cli`时候， **报错**如下的解决方法

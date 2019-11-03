@@ -5,7 +5,7 @@ toc: true
 categories: 
  - [学习 - qt]
 tags: 
- - qt
+ - qt控件
 ---
 
 

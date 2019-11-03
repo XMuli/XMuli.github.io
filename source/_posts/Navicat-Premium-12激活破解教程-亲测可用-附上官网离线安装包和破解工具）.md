@@ -6,9 +6,7 @@ toc: true
 categories: 
  - [资源 - 破解软件(常用，稀缺)]
 tags: 
- - Navicat Premium 12
- - 破解教程
- - 破解下载
+ - 破解
 ---
 
 ​	提供 `Navicat Premium 12`软件的破解教程，以及相关资源下载。

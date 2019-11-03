@@ -6,8 +6,7 @@ categories:
  - [学习 - qt]
  - [专栏 - Qt推倒重学系列]
 tags: 
- - qt
- - QString
+ - qt控件
 ---
 
 

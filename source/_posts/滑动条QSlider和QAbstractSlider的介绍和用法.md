@@ -6,9 +6,7 @@ categories:
  - [学习 - qt]
  - [专栏 - Qt推倒重学系列]
 tags: 
- - QSlider
- - qt
- - QAbstractSlider
+ - qt控件
 ---
 
 

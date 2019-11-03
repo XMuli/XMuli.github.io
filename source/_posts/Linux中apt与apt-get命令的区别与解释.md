@@ -5,7 +5,7 @@ toc: true
 categories: 
  - [学习 - Linux]
 tags: 
- - Linux
+ - Linux命令
 ---
 
 

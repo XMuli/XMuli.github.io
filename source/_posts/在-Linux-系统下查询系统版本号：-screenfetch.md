@@ -5,8 +5,7 @@ toc: true
 categories: 
  - [学习 - Linux]
 tags: 
- - linux
- - screenfetch
+ - Linux命令
 ---
 
 

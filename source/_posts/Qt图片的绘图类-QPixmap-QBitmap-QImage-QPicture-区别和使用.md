@@ -5,11 +5,7 @@ toc: true
 categories: 
  - [学习 - qt]
 tags: 
- - qt
- - QPixmap
- - QBitmap
- - QImage
- - QPicture
+ - qt控件
 ---
 
 **简介：**   `Qt`图片的绘图类`QPixmap`/`QBitmap`/`QImage`/`QPicture`区别和使用

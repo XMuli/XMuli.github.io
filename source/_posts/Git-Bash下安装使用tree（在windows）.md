@@ -5,8 +5,6 @@ toc: true
 categories: 
  - [学习 - 编码规范，辅助技巧]
  - [资源 - 破解软件(常用，稀缺)]
-tags: 
- - tree
 ---
 
 **简介：** 在**Windows**下的**Git Bash**环境下安装tree工具和使用

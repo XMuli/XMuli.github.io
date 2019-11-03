@@ -7,8 +7,6 @@ categories:
  - [专栏 - Qt推倒重学系列]
 tags: 
  - QStyle
- - c/c++
- - qt
 ---
 
 **简介：**  `QStyle`自定义重绘`QScrollBar`（滚动条）样式。

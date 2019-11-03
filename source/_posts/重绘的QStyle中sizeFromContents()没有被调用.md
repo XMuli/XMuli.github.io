@@ -7,9 +7,7 @@ categories:
  - [学习 - qt]
  - [专栏 - Qt推倒重学系列]
 tags: 
- - c/c++
- - qt
- - QStyle重绘
+ - QStyle
 ---
 
 

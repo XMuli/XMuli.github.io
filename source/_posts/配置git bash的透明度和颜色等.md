@@ -5,9 +5,6 @@ toc: true
 categories: 
  - [学习 - git]
  - [学习 - 编码规范，辅助技巧]
-tags: 
- - git
- - git bash
 ---
 
 **简介：**  官网下载**git**工具，随后配置**git bash**的颜色和透明度， 颜色等
