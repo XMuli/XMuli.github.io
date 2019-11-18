@@ -78,7 +78,7 @@ use_date_for_updated: false
 
 # Pagination 设置归档，若是为0， 则不用翻页
 ## Set per_page to 0 to disable pagination
-per_page: 0
+per_page: 100
 pagination_dir: page
 
 # Include / Exclude file(s)
