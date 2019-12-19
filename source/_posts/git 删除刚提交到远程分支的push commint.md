@@ -8,7 +8,7 @@ categories:
 
 
 
-**简  述： ** 刚刚使用另外一个账号在本地`commit`， 然后`push self`了，然后想要删除此次的远程提交；但是全部代码和工作区内容， 然后更换一个正确的git账号（**user.name **和 **user.email**）,再次生成一次`commit`，再`push self`；
+**简  述：**  刚刚使用另外一个账号在本地`commit`， 然后`push self`了，然后想要删除此次的远程提交；但是全部代码和工作区内容， 然后更换一个正确的git账号（ **user.name** 和 **user.email** ）,再次生成一次`commit`，再`push self`；
 
 <!-- more -->
 
@@ -24,5 +24,3 @@ categories:
 git reset HEAD^                  //等价于git reset -–mixed HEAD^，撤回本地上一次的commit提交，但是保留改动代码和工作区内容 
 git push self master -f          //因为版本落后远程分支，故加上-f
 ```
-
-
