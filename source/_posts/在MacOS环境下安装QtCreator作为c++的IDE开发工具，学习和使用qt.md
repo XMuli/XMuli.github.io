@@ -3,6 +3,7 @@ title: 在MacOS环境下安装QtCreator作为c++的IDE开发工具，学习和�
 date: 2019-11-25 00:01:23
 toc: true
 categories: 
+ - [学习 - MacOS]
  - [学习 - qt]
 ---
 

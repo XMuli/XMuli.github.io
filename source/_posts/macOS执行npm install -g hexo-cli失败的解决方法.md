@@ -3,7 +3,7 @@ title: macOS执行npm install -g hexo-cli失败的解决方法
 date: 2019-11-03 21:49:15
 toc: true
 categories: 
- - [学习 - Linux]
+ - [学习 - MacOS]
  - [学习 - hexo]
 ---
 

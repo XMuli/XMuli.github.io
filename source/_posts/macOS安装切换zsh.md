@@ -4,7 +4,7 @@ date: 2019-11-04 20:01:11
 toc: true
 categories: 
  - [学习 - git]
- - [学习 - Linux]
+ - [学习 - MacOS]
 tags: 
  - zsh
 ---

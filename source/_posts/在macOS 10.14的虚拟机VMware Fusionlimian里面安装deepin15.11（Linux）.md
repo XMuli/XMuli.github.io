@@ -3,7 +3,7 @@ title: 在macOS 10.14的虚拟机VMware Fusionlimian里面安装deepin15.11（Li
 date: 2019-10-28 20:42:21
 toc: true
 categories: 
- - [学习 - Linux]
+ - [学习 - MacOS]
 tags: 
  - deepin
 ---

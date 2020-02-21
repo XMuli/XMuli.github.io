@@ -3,7 +3,7 @@ title: 在MacOS解决"修改“Applications”需要输入管理员名称和密�
 date: 2019-11-26 21:40:14
 toc: true
 categories: 
- - [学习 - Linux]
+ - [学习 - MacOS]
  - [学习 - 科学上网vpn]
  - [学习 - 编码规范，辅助技巧]
 ---
