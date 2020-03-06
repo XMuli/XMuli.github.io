@@ -172,7 +172,13 @@ sudo ./install
 
 - 即可，会出现如下终端的可视化界面，依次点击`确定`和`下一步`，然后耐心等待，等待界面如下图
 
-<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img/mark_Snip20200203_130508.png" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200211_195948.png" style="zoom:33%;" />
+
+<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img/mark_Snip20200203_130508.png" style="zoom: 33%;" />
+
+
+
+<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200224_132510.png" style="zoom:33%;" />
 
 - 再次重启该虚拟机即可，点击最大化（可选择觉得舒服的分辨率），发现窗口已经占满整块屏幕了。 
 
