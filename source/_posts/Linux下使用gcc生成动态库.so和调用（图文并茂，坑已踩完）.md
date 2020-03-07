@@ -8,7 +8,13 @@ categories:
 
 
 
-　　**简  述：**　继 [上一篇](https://blog.csdn.net/qq_33154343/article/details/104692241)。本篇就继续实践踩坑，实现在Linux上面，使用gcc编译动态库.so，文件，且调用动态库。此处例子实际：使用g++8.3.0在uos20(Linux)平台下完成这个知识点的实践教程。
+　　<font color=#D0087E size=5 face="幼体">**简  述：**</font>　继 [上一篇](https://blog.csdn.net/qq_33154343/article/details/104692241)。本篇就继续实践踩坑，实现在Linux上面，使用gcc编译动态库.so，文件，且调用动态库。此处例子实际：使用g++8.3.0在uos20(Linux)平台下完成这个知识点的实践教程。
+
+<br>
+
+--- -
+
+<br>
 
 <!-- more -->
 
@@ -50,13 +56,13 @@ categories:
 
 
 
-下面每个文件里面写的代码如下：**注意此处，其中所有的.cpp文件都没有包含ExHeader.h或者其他的.h头文件**， 是为了验证一个猜想，.cpp生成的.o文件，在到.o生成的.so文件，是单独的二进制文件。只在最后编译和链接main.cpp文件时候，才会包含这个ExHeader.h文件。重最后结果来看，这个结果是✅的。
+下面每个文件里面写的代码如下：**注意此处，其中所有的.cpp文件都没有包含ExHeader.h或者其他的.h头文件**， 是为了验证一个猜想，.cpp生成的.o文件，在到.o生成的.so文件，是单独的二进制文件。只在最后编译和链接main.cpp文件时候，才会包含这个ExHeader.h文件。重最后结果来看，这个结果是✅的。 
 
- <img src="https://i.imgur.com/81soxRT.png" width="90%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/81soxRT22.png" width="100%"/>
 
  创建的几个文件目录结构如图：
 
- <img src="https://i.imgur.com/U0RZrnQ.png" width="40%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/mark_Snip20200307_181130.png" width="35%"/>
 
 <br>
 
@@ -85,7 +91,7 @@ categories:
 
  此时该文件的结构如下：
 
- <img src="https://i.imgur.com/kLRDwCZ.png" width="40%"/>
+  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200307181518.png" width="35%"/>
 
 <br>
 
@@ -108,7 +114,7 @@ categories:
 
  此时文件夹的结构如下：
 
- <img src="https://i.imgur.com/KJpB0pr.png" width="40%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200307181554.png" width="35%"/>
 
 <br>
 
@@ -126,10 +132,13 @@ categories:
 
 - 若是**运行之后，若首次未做设置，则就会发现运次失败！！！，会报错误提示，说找不到libxxx.so;** 
 
-
   **原因是：** <font color=#70AD47 size=4 face="幼圆">**因为linux 的工作机制，其加载动态库.so的顺序。要知道所依赖库的.so 的名称，还要知道其绝对路径。** </font>
 
-  <img src="https://i.imgur.com/ViCITEk.png" width="70%"/>
+
+
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200307181652.png" width="60%"/>
+
+
 
   <br>
 
@@ -171,13 +180,13 @@ categories:
 
  此时运行效果为（uos20[Linux]下）：
 
- <img src="https://i.imgur.com/7QsrFYY.png" width="80%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/mark_Snip20200307_182031.png" width="80%"/>
 
 
 
  此时运行效果为（MacOS10.14 [Uinx]下）：
 
- <img src="https://i.imgur.com/gFjp7mX.png" width="90%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200307183004.png" width="90%"/>
 
 <br>
 
