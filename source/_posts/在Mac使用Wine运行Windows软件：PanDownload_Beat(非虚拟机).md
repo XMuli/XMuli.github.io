@@ -209,7 +209,7 @@ wine /Users/muli/softInstll/BaiduNetdisk_6.8.9.1.exe
 
 
 
- <img src="https://i.imgur.com/M8mpBGw.jpg" width="90%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/mark_mark_Snip20200306_123148.png" width="90%"/>
 
 <br>
 

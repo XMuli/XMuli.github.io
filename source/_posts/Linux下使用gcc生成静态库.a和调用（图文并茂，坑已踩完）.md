@@ -8,9 +8,11 @@ categories:
 
 
 
-　　**简  述：**　在Linux系统下，使用gcc来编译，生成静态库，且调用静态库.a文件，生成可执行程序。此处例子实际：使用g++9.2在mac平台下完成这个知识点的教程。在 [下一篇](https://blog.csdn.net/qq_33154343/article/details/104692370) 踩坑生成动态库的.so制作和使用。
+　　**简  述：** 　在Linux系统下，使用gcc来编译，生成静态库，且调用静态库.a文件，生成可执行程序。此处例子实际：使用g++9.2在mac平台下完成这个知识点的教程。在 [下一篇](https://blog.csdn.net/qq_33154343/article/details/104692370) 踩坑生成动态库的.so制作和使用。
 
 <!-- more -->
+
+--- -
 
 [TOC]
 
@@ -36,7 +38,7 @@ categories:
 
 创建如下例子几个文件：注意是.cpp文件，里面写的也是c++的语法。
 
-  <img src="https://i.imgur.com/qONqa4N.png" width="50%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200308003020.png" width="35%"/>
 
 <br>
 
@@ -68,7 +70,7 @@ categories:
 
   此时的工程结构如下:
 
-    <img src="https://i.imgur.com/VAnlDdx.png" width="50%"/>
+   <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200308003054.png" width="35%"/>
 
   <br>
 
@@ -93,7 +95,7 @@ categories:
 
 - 此时工程的结构：
 
-​    <img src="https://i.imgur.com/IvovYA2.png" width="50%"/>
+   <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200308003118.png" width="35%"/>
 
 
 
@@ -104,7 +106,7 @@ categories:
   nm libmytest.a
   ```
 
-   <img src="https://i.imgur.com/eXGxXSy.jpg" width="80%"/>    
+   <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200308003143.png" width="50%"/>    
 
 <br>
 
@@ -112,7 +114,7 @@ categories:
 
 运行命令 `./mainApp`，执行可执行程序，能够看到结果输出，表示成功。
 
- <img src="https://i.imgur.com/QUAjRZ2.png" width="80%"/>
+ <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/img/2020/20200308003233.png" width="80%"/>
 
 <br>
 
@@ -124,7 +126,7 @@ categories:
 
 ### 总结：
 
-看起来很简单，**殊不知，纸上学来终觉浅，** 还是亲自实现一番才以记忆深刻。若是成功的白嫖到了这篇文章，可以点个赞，给我留个言，鼓励一下。你的加油，我们持续不断的出新的文章，那啥，白嫖一时爽，一直白嫖一直 。🥺
+看起来很简单，**殊不知，纸上学来终觉浅，** 还是亲自实现一番才以记忆深刻。若是成功的白嫖到了这篇文章，可以**点个赞，** 给我留个言，鼓励一下。你的加油，我们持续不断的出新的文章，那啥，白嫖一时爽，一直白嫖一直 。🥺
 
 
 

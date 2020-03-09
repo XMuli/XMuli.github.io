@@ -1,10 +1,9 @@
 ---
 title: hexo博客插入视频bilibili 和 youtube的mv视频《take me hand 》
+date: 2019-07-10 21:57:08
 toc: true
 categories:
  - [学习 - hexo]
-tags:
- - 享受影音
 ---
 
 

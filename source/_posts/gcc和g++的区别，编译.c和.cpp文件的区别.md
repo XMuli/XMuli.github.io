@@ -123,7 +123,7 @@ int main(int argc, const char * argv[]) {
 
 运行 `gcc-9 main.c ` 和 `gcc-9 main.c -lstdc++` 都编译不过。运行结果：
 
-  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_204442.png" width="50%" alt="图床在此网络是憨憨，请稍等..."/>
+  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_204442.png" width="50%"/>
 
 **结论：** 即使添加 -lstdc++ 依旧报错，因为 iostream 是属于 c++的内容，*.c 文件使用 gcc 会当做 C语言的严格程度和范围来编译。<font color=#FF0000  size=4 face="幼圆">**c语言** 应该用 stdio.h，**c++** 才用 iostream</font> 
 
@@ -133,7 +133,7 @@ int main(int argc, const char * argv[]) {
 
 运行 `gcc-9 main.cpp` 编译失败；运行 `gcc-9 main.cpp -lstdc++` 编译运行成功。运行结果如下：
 
-  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_205222.png" width="70%" alt="图床在此网络是憨憨，请稍等..."/>
+  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_205222.png" width="70%" />
 
 **结论：**  gcc 都是 将 cpp 按照 c++ 的严格程度和范围来编译，但是不会自动链接 STL 库。
 
@@ -143,7 +143,7 @@ int main(int argc, const char * argv[]) {
 
 运行命令，运行结果：
 
-  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_210956.png" width="50%" alt="图床在此网络是憨憨，请稍等..."/>
+  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_210956.png" width="50%" />
 
 **结论：** g++ 将 .c 按照 c++ 的严格程度和范围来编译，且会自动链接 STL 库。
 
@@ -153,7 +153,7 @@ int main(int argc, const char * argv[]) {
 
 运行 `g++-9 main.cpp`，简直太清爽了。运行结果：
 
-  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_210444.png" width="50%" alt="图床在此网络是憨憨，请稍等..."/>
+  <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img02/mark_Snip20200303_210444.png" width="50%" />
 
 **结论:**  g++ 用来编译 .cpp 文件是最为清爽的和合适的。
 

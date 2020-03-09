@@ -8,13 +8,7 @@ categories:
 
 
 
-　　<font color=#D0087E size=5 face="幼体">**简  述：**</font>　继 [上一篇](https://blog.csdn.net/qq_33154343/article/details/104692241)。本篇就继续实践踩坑，实现在Linux上面，使用gcc编译动态库.so，文件，且调用动态库。此处例子实际：使用g++8.3.0在uos20(Linux)平台下完成这个知识点的实践教程。
-
-<br>
-
---- -
-
-<br>
+　　**简  述：**　 继 [上一篇](https://blog.csdn.net/qq_33154343/article/details/104692241)。本篇就继续实践踩坑，实现在Linux上面，使用gcc编译动态库.so，文件，且调用动态库。此处例子实际：使用g++8.3.0在uos20(Linux)平台下完成这个知识点的实践教程。
 
 <!-- more -->
 
