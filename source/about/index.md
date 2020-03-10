@@ -1,18 +1,8 @@
 # 关于作者：
 
 <div align=center>
-<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/blog-imange/img/muli.png"/>
+<img src="https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/muli.png"  height="240" width="240" />
 </div>
-
-<br>
-
-<font color=#FE7207  size=4 face="幼圆">**提示：**</font> 
-
-■ [GitHub](https://github.com/touwoyimuli)  源码仓库展示，有一些小项目演示，欢迎查看，或许能够帮助到你
-
-■ [CSDN Bolg](https://blog.csdn.net/qq_33154343/article/category/7665917) 一些原创技术文章发表之地，实现互联网的共享信息精神
-
-■ [My Blog](https://xmuli.tech) 新的博客发表之地，新的博文也会在csdn上面同步发表，逐渐更新完善之中
 
 <br>
 
@@ -29,14 +19,10 @@
 
 |   博客    |                地址                 |
 | :-------: | :---------------------------------: |
-|  GitHub   |  <https://github.com/touwoyimuli>   |
-| CSDN Bolg | <https://blog.csdn.net/qq_33154343> |
 |  My Blog  |        <https://xmuli.tech>         |
+| CSDN Blog | <https://blog.csdn.net/qq_33154343> |
+|  GitHub   |  <https://github.com/touwoyimuli>   |
 
 <br>
-
-
-
-
 
 
