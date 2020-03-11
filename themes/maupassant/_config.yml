@@ -86,9 +86,9 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: touwoyimuli' csdn
+  - title: 投我木李 csdn
     url: https://blog.csdn.net/qq_33154343
-  - title: touwoyimuli' github
+  - title: 投我木李 github
     url: https://github.com/touwoyimuli
   - title: 懒得勤快
     url: https://masuit.com/
