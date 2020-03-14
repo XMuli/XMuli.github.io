@@ -6,13 +6,11 @@ toc: true
 categories: 
  - [学习 - c/c++]
  - [学习 - qt]
-tags: 
- - qt控件
 ---
 
 
 
-​			**通过使用树形控件`QTreeWidget`创建具有联动功能的和复选框树形控件，实现勾选一个（选中），其父节点也会改变相应的状态（**且父亲节点会迭代修改状态**），弥补参考文章的不足之处，创建工作中更加有效且实用的控件。
+​	**简述：**  **通过使用树形控件`QTreeWidget`创建具有联动功能的和复选框树形控件，实现勾选一个（选中），其父节点也会改变相应的状态（**且父亲节点会迭代修改状态），弥补参考文章的不足之处，创建工作中更加有效且实用的控件。
 
 <!-- more -->
 
@@ -259,11 +257,4 @@ void QDlgTreeWidget::onTreeItemChanged(QTreeWidgetItem* item, int column)
 
 [建立QTreeWidget下QTreeWidgetItem的右键菜单](https://blog.csdn.net/fengyutongtt/article/details/52372164) （推荐）
 
-
-
-------
-
-
-
-**本博文同步到csdn博客：** [Qt5 QTreeWidget使用 创建具有多级联动和复选框的树形控件](https://blog.csdn.net/qq_33154343/article/details/95343918)
-
+ 

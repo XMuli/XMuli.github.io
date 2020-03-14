@@ -107,13 +107,13 @@ Unable to find Mach task port for process-id 20050: (os/kern) failure (0x5).
 
    
 
-- 一直到这步骤，进行修改，选择 "**系**统"， 
+- 一直到这步骤，进行修改，选择 "**系统** "， 
 
    <img src="https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/20200310_185915.png" width="50%"/>
 
   
 
-- 重新再来一次， 证书创建成功
+- 证书创建成功 （若是失败，参考下面解决方案）
 
    <img src="https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/20200310_191146.png" width="50%"/>
 

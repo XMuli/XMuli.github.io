@@ -186,9 +186,9 @@ categories:
 
 ### 源码下载：
 
-[04_02_so](https://github.com/touwoyimuli/linuxExample/tree/master/04_make_so_a/04_02_so) （Linux版：uos20 例子）
-
-[04_03_so](https://github.com/touwoyimuli/linuxExample/tree/master/04_make_so_a/04_03_so) （Uinx版：MacOS10.14 例子）
+- [04_make_so_a](https://github.com/xmuli/linuxExample/tree/master/04_make_so_a)
+- 04_02_so，Linux版：uos20 例子
+- 04_03_so，Uinx版：MacOS10.14 例
 
 <br>
 

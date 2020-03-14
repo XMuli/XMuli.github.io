@@ -1,4 +1,4 @@
-disqus: ##touwoyimulier ## Your disqus_shortname, e.g. username
+disqus: ##  ## Your disqus_shortname, e.g. username
 uyan: ## Your uyan_id. e.g. 1234567
 livere: ## Your livere data-uid, e.g. MTAyMC8zMDAxOC78NTgz
 changyan: ## Your changyan appid, e.g. cyrALsXc8
@@ -49,9 +49,9 @@ canvas_nest:
   count: ## Quantity of lines, e.g. "150"
 donate:
   enable: true ## If you want to display the donate button after each post, please set the value to true and fill the following items on your need. You can also enable donate button in a page by adding a "donate: true" item to the front-matter.
-  github: https://github.com/touwoyimuli ## GitHub URL, e.g. https://github.com/Kaiyuan/donate-page
-  alipay_qr: https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/Alipay.jpg ## Path of Alipay QRcode image, e.g. /img/AliPayQR.png
-  wechat_qr: https://cdn.jsdelivr.net/gh/touwoyimuli/xmuliPic@pic/2020/WeChat.jpg ## Path of Wechat QRcode image, e.g. /img/WeChatQR.png
+  github: https://github.com/xmuli ## GitHub URL, e.g. https://github.com/Kaiyuan/donate-page
+  alipay_qr: https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/xmuli_Alipay.jpg ## Path of Alipay QRcode image, e.g. /img/AliPayQR.png
+  wechat_qr: https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/xmuli_WeChat.jpg ## Path of Wechat QRcode image, e.g. /img/WeChatQR.png
   btc_qr: ## Path of Bitcoin QRcode image, e.g. /img/BTCQR.png
   btc_key: ## Bitcoin key, e.g. 1KuK5eK2BLsqpsFVXXSBG5wbSAwZVadt6L
   paypal_url: ## Paypal URL, e.g. https://www.paypal.me/tufu9441
@@ -89,7 +89,7 @@ links:
   - title: 投我木李 csdn
     url: https://blog.csdn.net/qq_33154343
   - title: 投我木李 github
-    url: https://github.com/touwoyimuli
+    url: https://github.com/xmuli
   - title: 懒得勤快
     url: https://masuit.com/
   - title: win软件管家

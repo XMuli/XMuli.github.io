@@ -21,12 +21,6 @@ categories:
 
 <br>
 
-## <font color=#D0087E  face="幼圆">同步博文：</font>
-
-- <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font> [QTreeWidget和QDockWidget的讲解和使用](https://blog.csdn.net/qq_33154343/article/details/102491956)
-
-<br>
-
 ## QTreeWidget属性：
 
 **`QTreeWidget`类是创建和管理目录树结构的类；**
@@ -482,7 +476,7 @@ void ExQTreeWidget::on_dockWidget_topLevelChanged(bool topLevel)
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples)  【QtQTreeWidgetEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples) 【QtQTreeWidgetEx】
 
 <br>
 

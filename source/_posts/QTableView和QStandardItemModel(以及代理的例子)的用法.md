@@ -17,9 +17,7 @@ categories:
 
 [TOC]
 
-> <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [QTableView和QStandardItemModel(以及代理的例子)的用法](https://blog.csdn.net/qq_33154343/article/details/103572418)
->
-> **相关博文：** [Model-View-Delegate:"模型-视图-代理"的讲解](https://blog.csdn.net/qq_33154343/article/details/103501667)
+**相关博文：**   [Model-View-Delegate:"模型-视图-代理"的讲解](https://blog.csdn.net/qq_33154343/article/details/103501667)
 
 <br>
 
@@ -517,4 +515,5 @@ void ExDelegate::updateEditorGeometry(QWidget *editor, const QStyleOptionViewIte
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtQStandardItemModelEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtQStandardItemModelEx】
+

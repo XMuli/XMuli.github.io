@@ -17,11 +17,7 @@ categories:
 
 [TOC]
 
-> <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [QFileSystemModel数据模型获取本机文件系统的使用](https://blog.csdn.net/qq_33154343/article/details/103544820)
->
-> **相关博客：** [Model-View-Delegate:"模型-视图-代理"的讲解](https://blog.csdn.net/qq_33154343/article/details/103501667)
-
-
+**相关博客：**  [Model-View-Delegate:"模型-视图-代理"的讲解](https://blog.csdn.net/qq_33154343/article/details/103501667)
 
 <br>
 
@@ -176,4 +172,4 @@ void ExQFileSystemModel::on_treeView_clicked(const QModelIndex &index)
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtQFileSystemModelEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtQFileSystemModelEx】

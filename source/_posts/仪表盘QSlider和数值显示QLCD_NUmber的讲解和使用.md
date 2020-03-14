@@ -29,12 +29,6 @@ tags:
 
 <br>
 
-## <font color=#D0087E  face="幼圆">同步博文：</font>
-
-- <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font> [仪表盘QSlider和数值显示QLCD_NUmber的讲解和使用](https://blog.csdn.net/qq_33154343/article/details/101003115) 
-
-<br>
-
 ## 运行效果：
 
 先上一个最终的运行效果图：
@@ -109,7 +103,7 @@ ui->lcdNumber->setHexMode();    //设置LCD显示十六进制数
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtQdialQLCDEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples) 【QtQdialQLCDEx】
 
 <br>
 
@@ -117,4 +111,3 @@ ui->lcdNumber->setHexMode();    //设置LCD显示十六进制数
 
 <font color=#D0087E size=4 face="幼圆">因为有着许许多多的热心网友的无私分享，从他们的博客中学习成长，学会很多，故也不辞辛苦也将自己的项目或经验整理成博客的形式，也提供给一起大家学习探讨与交流 </font>
 
-<img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/img/20190829225308.jpg"/>

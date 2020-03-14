@@ -15,8 +15,6 @@ categories:
 
 [TOC]
 
-> <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [目录树组件QTreeWidget和停靠区域组件QDockWidget的用法](https://blog.csdn.net/qq_33154343/article/details/103467757)
-
 <br>
 
 ## QTreeWidget组件：
@@ -450,4 +448,4 @@ void ExQTreeWidget::on_dockWidget_topLevelChanged(bool topLevel)
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtQTreeWidgetEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtQTreeWidgetEx】

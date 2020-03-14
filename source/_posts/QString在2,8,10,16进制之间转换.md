@@ -31,12 +31,6 @@ tags:
 
 <br>
 
-## <font color=#D0087E  face="幼圆">同步博文：</font>
-
-- <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font> [`QString`在2 ／8／10／16进制之间转换](https://blog.csdn.net/qq_33154343/article/details/100860030)
-
-<br> 
-
 ## 运行效果：
 
 <img src="https://raw.githubusercontent.com/touwoyimuli/FigureBed/master/img/20190914221639.gif"/>
@@ -110,7 +104,7 @@ ui->edit16->setText(str);
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtQStringEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtQStringEx】
 
 <br>
 

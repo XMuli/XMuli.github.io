@@ -173,17 +173,13 @@ gcc 和 g++ 都是根据 文件的后缀名称 .c .cpp；来判断是否以 C语
 
 ### 源码下载：
 
-[02_c_cpp](https://github.com/touwoyimuli/linuxExample/tree/master/02_c_cpp) 
+[02_c_cpp](https://github.com/xmuli/linuxExample/tree/master/02_c_cpp)
+
+<br>
 
 **参考文章：**
 
 [https://www.zhihu.com/question/20940822/answer/536826078](https://www.zhihu.com/question/20940822/answer/536826078) 
-
-<br>
-
-> <font color=#D0087E  size=4 face="幼圆">**📌本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [gcc和g++的区别，编译.c和.cpp文件的区别](https://blog.csdn.net/qq_33154343/article/details/104645129)
-
-
 
 
 

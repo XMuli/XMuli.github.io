@@ -120,7 +120,7 @@ categories:
 
 ### 源码下载：
 
-[04_01_a](https://github.com/touwoyimuli/linuxExample/tree/master/04_make_so_a/04_01_a) 
+[04_make_so_a](https://github.com/xmuli/linuxExample/tree/master/04_make_so_a)
 
 <br>
 

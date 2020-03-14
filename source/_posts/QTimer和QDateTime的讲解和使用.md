@@ -29,12 +29,6 @@ tags:
 
 <br>
 
-## <font color=#D0087E  face="幼圆">同步博文：</font>
-
-- <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font> [QTimer和QDateTime的讲解和使用](https://blog.csdn.net/qq_33154343/article/details/101040841) 
-
-<br>
-
 ## 运行效果：
 
 先上一个最终的运行效果图：
@@ -203,7 +197,7 @@ void ExDateTime::on_btnPeriod_clicked()
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtDateTimeEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtDateTimeEx】
 
 <br>
 

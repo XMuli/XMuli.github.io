@@ -17,18 +17,6 @@ categories:
 
 [TOC]
 
-> <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [TCP通信之QTcpServer和QTcpSocket，服务器和客户端通讯](https://blog.csdn.net/qq_33154343/article/details/103759735)
-
-<br>
-
-## 相关博文：
-
-**有着一些关联的博文其他参考：**
-
-- 
-
-<br>
-
 ## 系统环境：
 
 **编程环境：**  `MacOS 10.14.6 (18G103)`   **编程软件：** `Qt 5.9.8`， `Qt Creator 4.8.2`
@@ -590,4 +578,4 @@ void ExTcpClient::on_btnSend_clicked()
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtTcpEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples) 【QtTcpEx】

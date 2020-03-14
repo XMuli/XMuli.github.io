@@ -29,12 +29,6 @@ tags:
 
 <br>
 
-## <font color=#D0087E  face="幼圆">同步博文：</font>
-
-- <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font> [小技巧：设置`QToolBox`的每一页page的使用单独的布局](https://blog.csdn.net/qq_33154343/article/details/100185025) 
-
-<br>
-
 ## 知识分享：
 
 **小技巧：设置`QToolBox`的每一页page的使用单独的布局（`QTabWidget`同理）**

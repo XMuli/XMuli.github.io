@@ -17,10 +17,6 @@ categories:
 
 [TOC]
 
-> <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [多文档界面MDI(Multi-document Interface)的实现，QMdiArea使用](https://blog.csdn.net/qq_33154343/article/details/103625380)
-
-<br>
-
 ## 系统环境：
 
 **编程环境：**  `MacOS 10.14.6 (18G103)`   **编程软件：** `Qt 5.9.8`， `Qt Creator 4.8.2`
@@ -320,4 +316,4 @@ void ExMainWindow::on_actClose_triggered()
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtMDIEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples) 【QtMDIEx】

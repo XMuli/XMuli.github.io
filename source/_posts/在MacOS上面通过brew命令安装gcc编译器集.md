@@ -124,11 +124,9 @@ int main(int argc, const char * argv[]) {
 
 ### 源码下载：
 
-[01_test_gcc](https://github.com/touwoyimuli/linuxExample/tree/master/01_test_gcc)
+[01_test_gcc](https://github.com/xmuli/linuxExample/tree/master/01_test_gcc) 
 
-<br>
 
-> <font color=#D0087E  size=4 face="幼圆">**📌本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [在MacOS上面通过brew命令安装gcc编译器集](https://blog.csdn.net/qq_33154343/article/details/104639656) 
 
 
 

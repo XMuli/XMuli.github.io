@@ -10,7 +10,7 @@ categories:
 
 
 
-​		了解OpenMesh，学会安装，尝试在c++里面使用OpenMesh，书写一个简单地例子。
+**简述：**  了解OpenMesh，学会安装，尝试在c++里面使用OpenMesh，书写一个简单地例子。
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ categories:
 
 进入OpenMesh官网[**OpenMesh官网**](http://www.openmesh.org/)，下载下面的文件：
 
-备用github直接下载：[**OpenMesh-8.0-VS2015-64-Bit-no-apps.exe**](https://github.com/touwoyimuli/2019_06_OpenMesh/blob/master/software/OpenMesh-8.0-VS2015-64-Bit-no-apps.exe)
+备用github直接下载：[**OpenMesh-8.0-VS2015-64-Bit-no-apps.exe**](https://github.com/xmuli/openMesh/blob/master/software/OpenMesh-8.0-VS2015-64-Bit-no-apps.exe)
 
 
 
@@ -234,7 +234,7 @@ MeshLab官网下载地址：[MeshLab官网](http://www.meshlab.net/#download)
 
 ## 源码下载：
 
-源码：[**TestOpenMesh源码**](https://github.com/touwoyimuli/2019_06_OpenMesh/tree/master/TestOpenMesh)
+源码：[**TestOpenMesh源码**](https://github.com/xmuli/openMesh/tree/master/TestOpenMesh)
 
 
 
@@ -259,11 +259,7 @@ OpenMesh的网上教程感觉都是十分的少，唯一比较全面的话，可
 
 ## 资源：
 
-提供一个良好的中文入门手册：[**OpenMesh入门文档.pdf**](https://github.com/touwoyimuli/2019_06_OpenMesh/tree/master/docORpdf) （可以帮助弄清楚OpenMesh基本概念，值得一读）
-
-
-
-同步的csdn本片博文：[OpenMesh入门，安装，运行示例Hello World](https://blog.csdn.net/qq_33154343/article/details/93206255)
+提供一个良好的中文入门手册：[**OpenMesh入门文档.pdf**](https://github.com/txmuli/openMesh/tree/master/docORpdf) （可以帮助弄清楚OpenMesh基本概念，值得一读）
 
 
 

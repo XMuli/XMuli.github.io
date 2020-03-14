@@ -17,10 +17,6 @@ categories:
 
 [TOC]
 
-> <font color=#D0087E  size=4 face="幼圆">**本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font>  [getOpenFileName标准对话框和自定义对话框的使用](https://blog.csdn.net/qq_33154343/article/details/103545066)
-
-<br>
-
 ## 系统环境：
 
 **编程环境：**  `MacOS 10.14.6 (18G103)`     **编程软件：** `Qt 5.9.8`， `Qt Creator 4.8.2`
@@ -382,4 +378,4 @@ void ExDialog::on_btnDouble_clicked()
 
 ## 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtQDialogEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtQDialogEx】

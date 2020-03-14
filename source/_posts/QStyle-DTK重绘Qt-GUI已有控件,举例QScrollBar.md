@@ -188,12 +188,10 @@ public:
 
 ### 源码下载：
 
-[https://github.com/touwoyimuli/QtExamples](https://github.com/touwoyimuli/QtExamples) 【QtMyStyleEx/QtExample02/QtStyleEx】
+[https://github.com/xmuli/QtExamples](https://github.com/xmuli/QtExamples)【QtMyStyleEx/QtExample02/QtStyleEx】
 
 <br>
 
-> <font color=#D0087E  size=4 face="幼圆">**📌本篇的[csdn](https://blog.csdn.net/qq_33154343)/[github.io](https://touwoyimuli.github.io/)同步博文:** </font> [QStyle/DTK重绘Qt-GUI已有控件,举例QScrollBar](https://blog.csdn.net/qq_33154343/article/details/104537944)
->
 > <font color=#D0087E  size=4 face="幼圆">**📌本博文系列的目录:** </font> [QtExamples 系列的目录](https://blog.csdn.net/qq_33154343/article/details/100148539)
 
 
