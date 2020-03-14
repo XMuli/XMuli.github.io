@@ -8,10 +8,10 @@
 
 **即时聊天：**
 
-|     联系     |            地址            |
-| :----------: | :------------------------: |
-|   Telegram   | <https://t.me/touwoyimuli> |
-| Google Gmail |  <touwoyimuli@gmail.com>   |
+|     联系     |         地址          |
+| :----------: | :-------------------: |
+|   Telegram   | <https://t.me/xmuli>  |
+| Google Gmail | <xmulitech@gmail.com> |
 
 <br>
 
@@ -21,7 +21,7 @@
 | :-------: | :---------------------------------: |
 |  My Blog  |        <https://xmuli.tech>         |
 | CSDN Blog | <https://blog.csdn.net/qq_33154343> |
-|  GitHub   |  <https://github.com/touwoyimuli>   |
+|  GitHub   |     <https://github.com/xmuli>      |
 
 <br>
 
